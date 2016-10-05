@@ -28,8 +28,7 @@ var/
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
-*.spec
-
+*.spec 
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -87,3 +86,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+boost_1_62_0/
+
